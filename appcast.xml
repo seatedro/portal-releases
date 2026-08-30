@@ -2,5 +2,17 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
     <title>Portal</title>
+    <item>
+      <title>Portal 0.2.0</title>
+      <pubDate>Sat, 29 Aug 2026 17:58:57 -0700</pubDate>
+      <sparkle:version>130</sparkle:version>
+      <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/seatedro/portal-releases/releases/download/v0.2.0/Portal-0.2.0.zip"
+        length="11206967"
+        type="application/octet-stream"
+        sparkle:edSignature="INktUdsFvZrdKlNpGQvmipppJNcNJXWzxKeSanxRG+6iV2D52FRK3/PTe7mT2Kzvqj/+A2ermITmXrl9qnv/Cw==" length="11206967" />
+    </item>
   </channel>
 </rss>
