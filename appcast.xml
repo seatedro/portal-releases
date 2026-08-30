@@ -10,7 +10,6 @@
       <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
       <enclosure
         url="https://github.com/seatedro/portal-releases/releases/download/v0.2.1/Portal-0.2.1.zip"
-        length="11249021"
         type="application/octet-stream"
         sparkle:edSignature="pXS62YZ93NDf4pm7mcPsPzUuAnaHlIoNrydNTLawwrl+idr0+CAxs23OK4lRQZHZLYqwAYXwxh/b6VhZXACyAw==" length="11249021" />
     </item>
@@ -22,7 +21,6 @@
       <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
       <enclosure
         url="https://github.com/seatedro/portal-releases/releases/download/v0.2.0/Portal-0.2.0.zip"
-        length="11206967"
         type="application/octet-stream"
         sparkle:edSignature="INktUdsFvZrdKlNpGQvmipppJNcNJXWzxKeSanxRG+6iV2D52FRK3/PTe7mT2Kzvqj/+A2ermITmXrl9qnv/Cw==" length="11206967" />
     </item>
