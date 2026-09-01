@@ -3,6 +3,17 @@
   <channel>
     <title>Portal</title>
     <item>
+      <title>Portal 0.3.4</title>
+      <pubDate>Tue, 01 Sep 2026 13:43:20 -0700</pubDate>
+      <sparkle:version>162</sparkle:version>
+      <sparkle:shortVersionString>0.3.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/seatedro/portal-releases/releases/download/v0.3.4/Portal-0.3.4.zip"
+        type="application/octet-stream"
+        sparkle:edSignature="gk/1PgnKx1+cTycMYrKiR5BAjIoaRVYOEiEPH8KyWM306aSpnAHPrgiT+4G5sJhunZeE88emipObAEgFMun+Bg==" length="14671131" />
+    </item>
+    <item>
       <title>Portal 0.3.3</title>
       <pubDate>Mon, 31 Aug 2026 17:12:05 -0700</pubDate>
       <sparkle:version>151</sparkle:version>
